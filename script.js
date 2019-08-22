@@ -1,8 +1,8 @@
-let MyButton = document.getElementById("button");
+let Button = document.getElementById("button");
 
-let MyText = document.getElementById("Hello World");
+let Text = document.getElementById("Hello World");
 
-button.addEventListener("click", OnButtonClicked);
+button.addEventListener('click', OnButtonClicked);
 
 function OnButtonClicked() {
 
